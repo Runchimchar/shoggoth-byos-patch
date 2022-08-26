@@ -1,0 +1,7 @@
+[
+	{
+	"op":"replace",
+	"path":"/description",
+	"value":"Eats fuel for the ship's FTL dive. ^red;Do not place outside of ship!^reset;"
+	}
+]

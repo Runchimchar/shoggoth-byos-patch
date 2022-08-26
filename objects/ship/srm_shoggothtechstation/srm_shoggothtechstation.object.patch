@@ -1,0 +1,42 @@
+[
+	{
+	"op":"add",
+	"path":"/scripts/-",
+	"value":"/objects/scripts/customtechstation.lua"
+	},
+	{
+	"op":"add",
+	"path":"/scripts/-",
+	"value":"/objects/ship/fu_byosobjectdeath.lua"
+	},
+	{
+	"op":"add",
+	"path":"/scripts/-",
+	"value":"/objects/ship/fu_shipobjectplanetinteraction.lua"
+	},
+	{
+	"op":"replace",
+	"path":"/interactAction",
+	"value":"ScriptPane"
+	},
+	{
+	"op":"add",
+	"path":"/interactData",
+	"value":"/zb/newSail/newSail.config"
+	},
+	{
+	"op":"add",
+	"path":"/planetInteractAction",
+	"value":"ScriptPane"
+	},
+	{
+	"op":"add",
+	"path":"/planetInteractData",
+	"value":"/interface/scripted/fu_planetsail/fu_planetsail.config"
+	},
+	{
+	"op":"replace",
+	"path":"/description",
+	"value":"A biotech S.A.I.L. panel to interface with your ship. ^red;Do not place outside of ship!^reset;"
+	}
+]

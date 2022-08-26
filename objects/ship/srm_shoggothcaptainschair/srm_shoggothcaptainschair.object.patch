@@ -1,0 +1,7 @@
+[
+	{
+	"op":"replace",
+	"path":"/description",
+	"value":"Sitting here interfaces you with the ship's navigation. ^red;Do not place outside of ship!^reset;"
+	}
+]

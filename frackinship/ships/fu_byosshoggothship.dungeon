@@ -1,0 +1,21 @@
+{
+  "metadata" : {
+    "name" : "fu_byosshoggothship",
+    "species" : "shoggoth",
+    "rules" : [],
+    "protected" : false,
+    "anchor" : [ "fu_byosshoggothship"],
+    "maxRadius" : 256,
+    "maxParts" : 1
+  },
+
+  "parts" : [
+    {
+      "name" : "fu_byosshoggothship",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "fu_byosshoggothship.json" ]
+    }
+  ]
+}

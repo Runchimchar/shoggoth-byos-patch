@@ -1,0 +1,13 @@
+[
+	[
+	{ "op": "test", "path": "/speciesShips/shoggoth"},
+	{"op":"replace","path":"/speciesShips/shoggoth/0",
+	"value": "/ships/fu_byos/fu_byos.structure"}
+	],
+	
+	[
+	{ "op": "test", "path": "/speciesShips/mindflayer"},
+	{"op":"replace","path":"/speciesShips/mindflayer/0",
+	"value": "/ships/fu_byos/fu_byos.structure"}
+	]
+]

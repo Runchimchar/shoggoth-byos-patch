@@ -1,0 +1,12 @@
+{
+  "author" : "Poundcake",
+  "description" : "Patches Frackin's BYOS system to work with the shoggoth starting ship, including changing the shoggoth SAIL panel to use FU's interface. Adds recipes for the fuel hatch, captain's chair, SAIL panel, and ship teleporter to the organ lab.\n\nAlso adds a new starting model of BYOS ship in the shoggoth style! Look for it under the BYOS ship options.\n\nNew Update: Now also patches the hardcore respawn cinematic bug\n\nIf you are looking for the standalone BYOS mod patch, check out my other mod here: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2534798032]https://steamcommunity.com/sharedfiles/filedetails/?id=2534798032[/url]",
+  "friendlyName" : "Shoggoth BYOS Patch",
+  "includes" : ["FrackinUniverse", "shoggothracemod"],
+  "link" : "steam://url/CommunityFilePage/2524837900",
+  "name" : "Shoggoth_BYOS_Patch",
+  "priority" : 999,
+  "steamContentId" : "2524837900",
+  "tags" : "Miscellaneous|Ships|Species|User Interface",
+  "version" : "1.2"
+}

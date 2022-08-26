@@ -1,0 +1,12 @@
+[
+	{
+	"op":"replace",
+	"path":"/description",
+	"value":"A slimy teleporter designed for starships. ^red;Do not place outside of ship!^reset;"
+	},
+	{
+	"op":"replace",
+	"path":"/shortdescription",
+	"value":"Shoggoth Ship Teleporter"
+	}
+]

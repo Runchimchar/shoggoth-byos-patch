@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "srm_shoggothslime", "count" : 15 }
+  ],
+  "output" : {
+    "item" : "srm_shoggothtechstation",
+    "count" : 1
+  },
+  "duration" : 0.0,
+  "groups" : [ "misc", "t1organ", "decoration", "byos" ]
+}

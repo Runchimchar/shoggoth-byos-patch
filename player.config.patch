@@ -1,0 +1,22 @@
+[
+	{
+	"op":"add",
+	"path":"/defaultBlueprints/tier1/-",
+	"value":{"item":"srm_shoggothcaptainschair"}
+	},
+	{
+	"op":"add",
+	"path":"/defaultBlueprints/tier1/-",
+	"value":{"item":"srm_shoggothfuelhatch"}
+	},
+	{
+	"op":"add",
+	"path":"/defaultBlueprints/tier1/-",
+	"value":{"item":"srm_shoggothtechstation"}
+	},
+	{
+	"op":"add",
+	"path":"/defaultBlueprints/tier1/-",
+	"value":{"item":"srm_shoggothteleporter"}
+	}
+]

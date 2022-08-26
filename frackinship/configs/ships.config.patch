@@ -1,0 +1,21 @@
+[
+	[
+	{
+	"op":"test",
+	"path":"/fu_byosShoggoth",
+	"inverse":true
+	},
+	{
+	"op":"add",
+	"path":"/fu_byosShoggoth",
+	"value": {
+		"ship" : "fu_byosshoggothship",
+		"name" : "Shoggoth BYOS Ship",
+		"offset" : [-52,12],
+		"racialiserOverride" : "shoggoth",
+		"icon" : "/interface/title/shoggothfemale.png",
+		"previewImage" : "/interface/ai/shippreviews/fu_byosshoggothship.png"
+		}
+	}
+	]
+]
